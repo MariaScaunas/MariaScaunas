@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ..website animations and integrating with webflow.
 - 📫 How to reach me mariascaunas@hotmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to udnerstand how trech works  
+- ⚡ Fun fact: I love to udnerstand how tech works  
 
 <!---
 MariaScaunas/MariaScaunas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
